@@ -1,4 +1,4 @@
-## [End-User License Agreement (EULA) of Database Random Data](https://github.com/story-has-you/database-random-data/license.md#end-user-license-agreement-eula-of-Database Random Data)
+## [End-User License Agreement (EULA) of Database Random Data](https://github.com/story-has-you/database-random-data/blob/master/license.md)
 
 This End-User License Agreement ("EULA") is a legal agreement between you and Avid
 
